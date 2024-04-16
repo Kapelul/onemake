@@ -1,5 +1,2 @@
-favourites:
-  pkg.installed:
-    - pkgs:
-      - cowsay
-      - tree
+cowsay:
+  pkg.installed
